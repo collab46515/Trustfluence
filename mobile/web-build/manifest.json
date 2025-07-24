@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "trustfluence-mobile",
+  "short_name": "trustfluence-mobile",
+  "start_url": "/?utm_source=web_app_manifest"
+}
